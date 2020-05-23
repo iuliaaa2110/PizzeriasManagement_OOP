@@ -1,0 +1,20 @@
+10
+mozzarela 1.5
+sosrosii 2
+salam 4.7
+carnati 3
+ciuperci 2.7
+ardei 3
+masline 3.2
+porumb 2.5
+ceapa 1
+ton 4
+4
+Margherita 2 mozzarela sosrosii
+Rustica 6 mozzarela sosrosii carnati salam ardei masline
+Vegetariana 6 mozzarela sosrosii ciuperci ardei porumb masline
+PizzaTonno 5 mozzarela sosrosii ton ceapa porumb
+3
+Oferta1 3 Margherita Rustica Vegetariana
+Oferta2 3 Rustica Vegetariana PizzaTonno
+Oferta3 3 PizzaTonno Rustica Margherita
