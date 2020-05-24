@@ -3,7 +3,7 @@
 #include <vector>
 #include "Pizza.h"
 
-template<class T>   //apelez:Meniu<Pizza>
+template<class T>
 class Meniu:T{
     public:
     std::vector <std::pair<T,float> > meniu;
