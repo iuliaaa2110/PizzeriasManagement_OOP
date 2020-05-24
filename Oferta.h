@@ -1,7 +1,7 @@
 #ifndef OFERTA_H_INCLUDED
 #define OFERTA_H_INCLUDED
 
-class Oferta:Pizza{  //o Oferta e formata din mai multe ingrediente
+class Oferta:Pizza{  //o Oferta e formata din mai multe pizze
     protected:
     static constexpr float manopera=-3;//m-a obligat compilatorul sa pun constexpr
     std::string nume;
