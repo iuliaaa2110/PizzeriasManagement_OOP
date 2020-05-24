@@ -30,7 +30,7 @@ class Pizza{  //o pizza e formata din mai multe ingrediente
 
     friend std::ostream& operator <<(std :: ostream & out, Pizza const& ob);
 
-    friend bool operator ==(Pizza &ob1,Pizza &ob2); //pe asta sincer cred ca am facut i degeaba
+    friend bool operator ==(Pizza &ob1,Pizza &ob2); //pe asta sincer cred ca l-am facut degeaba
 };
 
 #endif // NRMARE_H_INCLUDED
