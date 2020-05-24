@@ -5,7 +5,7 @@ class Oferta:Pizza{  //o Oferta e formata din mai multe pizze
     protected:
     static constexpr float manopera=-3;//m-a obligat compilatorul sa pun constexpr
     std::string nume;
-    std::vector < std::pair < Pizza,float > > componente;    ///ingredientele din care e formata si preturile lor
+    std::vector < std::pair < Pizza,float > > componente;    ///pizzele din care e formata si preturile lor
 
     public:
 
